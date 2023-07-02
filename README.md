@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omtrivediw&show_icons=true&locale=en" alt="omtrivediw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omtrivediw&" alt="omtrivediw" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omtrivediw)](https://git.io/streak-stats)
