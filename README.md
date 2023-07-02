@@ -27,6 +27,5 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omtrivediw)](https://github.com/omtrivediw/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omtrivediw&show_icons=true&locale=en" alt="omtrivediw" /></p>
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=omtrivediw)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=omtrivediw)](https://git.io/streak-stats)
