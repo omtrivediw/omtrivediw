@@ -1,4 +1,4 @@
-![logo](https://github.com/omtrivediw/omtrivediw/blob/main/Om%20Narayan%20Trivedi.png)
+![logo](https://github.com/omtrivediw/omtrivediw/blob/main/Om%20Narayan%20Trivedi%20f.png)
 
 <h1 align="center">Hi 👋, I'm Om Narayan Trivedi</h1>
 <h3 align="center">A passionate Web/App Developer from India</h3>
