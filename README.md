@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 💬 Ask me about **Machine Learning,SQL, Python, MERN Stack**
+- 💬 Ask me about **Machine Learning, SQL, Python, MERN Stack**
 
 - 📫 How to reach me **omtrivedi.7824@gmail.com**
 
