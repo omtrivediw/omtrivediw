@@ -31,7 +31,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omtrivediw&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=omtrivediw&limit=5&theme=radical&combine_all_yearly_contributions=true)
