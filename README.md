@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Machine Learning, React Native, Flutter, Python, MERN Stack**
+- 💬 Ask me about **Machine Learning, React Native, Flutter, MERN Stack**
 
 - 📫 How to reach me **omtrivedi.7824@gmail.com**
 
