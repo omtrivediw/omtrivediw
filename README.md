@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omtrivedi.7824@gmail.com**
 
-- ⚡ Fun fact **I try to learn a lot of things🤓**
+- ⚡ Fun fact **I try to learn lots of things🤓**
 
 
 ## 📊 Connect With Me:
